@@ -24,7 +24,7 @@
 - muduo,https://blog.csdn.net/QIANGWEIYUAN/article/details/89023980
 #### 先启动rpc
 ```
-cd KVstorageBaseRaft-cpp // 进入项目目录
+cd Based_on_the_Raft_Algorithm_Kv_Storage // 进入项目目录
 mkdir cmake-build-debug
 cd cmake-build-debug
 cmake ..
